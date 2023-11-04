@@ -4,3 +4,21 @@
     box-sizing: border-box;
     font-family: 'Metrophobic', sans-serif;
 }
+
+  
+  /* -----------------------------------promotional section---------------------- */
+
+#promotional-bar{
+    background-color: rgb(236, 236, 236);
+}
+
+.promotional-message{
+    padding:10px  ;
+    text-align: center;
+    font-size:0.8rem;
+}
+.promotional-link{
+    text-decoration: none;
+    color:inherit;
+    font-weight: bold;
+}
