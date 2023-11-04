@@ -5,7 +5,23 @@
     font-family: 'Metrophobic', sans-serif;
 }
 
-  
+/* ---------------------------------------scroll bar------------------------------- */
+
+
+::-webkit-scrollbar {
+    width: 5px;     
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8d8d8e;    
+    border-radius: 5px; 
+    height:10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
   /* -----------------------------------promotional section---------------------- */
 
 #promotional-bar{
