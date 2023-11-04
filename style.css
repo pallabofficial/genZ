@@ -22,3 +22,81 @@
     color:inherit;
     font-weight: bold;
 }
+
+/* -------------------------------------------navbar section------------------------------ */
+
+.navbar-container{
+    width:90vw;
+    margin:0 auto;
+    height:5rem;
+    
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-section{
+    /* border:0.5px solid black; */
+    display:flex;
+    
+}
+#nav-section-1{
+    width:6%;
+    aspect-ratio: 1/1;
+    background-image: url("images/company logo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#nav-section-2{
+    width:50%;
+    justify-content: space-between;
+    font-size: 16px;
+}
+
+#nav-section-3{
+    width:30%;
+    justify-content: space-between;
+    align-items: center;
+}
+#search-bar{
+    width:70%;  
+    display: flex;
+    align-items: center;  
+
+    border-radius: 25px; 
+    overflow: hidden;
+    max-width: 300px; 
+    background-color: rgb(236, 236, 236);
+  }
+  #search-logo-container{
+    width:20px;
+    max-height: 100%;
+    padding-top: 3px;;
+    margin-left: 15px;
+    /* overflow: hidden; */
+  }
+  #search-logo{
+    max-width: 100%;
+    height:auto;
+  }
+  
+  #search-input {
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    background-color: rgb(236, 236, 236);
+
+    
+  }
+  #account-icon{
+    width:30px;
+    aspect-ratio: 1/1;
+  }
+
+  #shopping-bag-icon{
+    width:40px;
+    aspect-ratio: 1/1;
+  }
+
