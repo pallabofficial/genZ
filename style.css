@@ -120,6 +120,22 @@
   aspect-ratio: 1/1;
 }
 
+/* -------------------------------------category section on hover----------------------------------  */
+
+#category-section-on-hover{
+    display: none;
+    position: absolute; /* Set position to absolute */
+    top: 7rem;
+    width:90%;
+    height:50vh;
+    background-color: white;
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); 
+    
+
+}
+
+
 
 /* -----------------------------------------------------banner----------------------------------- */
 
