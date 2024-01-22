@@ -1,3 +1,9 @@
+const scroll = new LocomotiveScroll({
+    el: document.querySelector('#main'),
+    smooth: true
+});
+
+
 const navItemCategory = document.querySelector("#nav-section2-item1-container");
 const hiddenDropdownSectionNavItemCategory = document.querySelector(".category-section-on-hover-mouseout");
 
