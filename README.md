@@ -20,7 +20,7 @@
     screen sizes and devices.
 
 - Back-End:
-  - Robust Database and Server Infrastructure: Employing a reliable back-end infrastructure to manage product data and     
+  - Robust Database and Serv Infrastructure: Employing a reliable back-end infrastructure to manage product data and     
     facilitate secure transactions.
   - Payment Gateways: Integration with industry-standard payment gateways to ensure secure and convenient financial 
     transactions for users.
