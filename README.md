@@ -1,7 +1,7 @@
 <center><h1>Project</h1></center>
 -> <b>Overview:</b>
   - A modern and trend e-commercwebsite tailored to the GenZ audiences (ages ~16-30 years).
-  - Offers a wide range of stylish products including clothing, smart watch, headphones, and more.
+  - Offers a wide range of stylish products including clothing, smart watch, headphone, and more.
 
 -> <b>Key Features:</b>
   - User-friendly and intuitive interface for effortless shopping.
